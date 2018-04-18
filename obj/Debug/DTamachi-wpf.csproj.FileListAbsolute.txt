@@ -1,0 +1,16 @@
+c:\users\leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\bin\Debug\DTamachi-wpf.exe.config
+c:\users\leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\bin\Debug\DTamachi-wpf.exe
+c:\users\leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\bin\Debug\DTamachi-wpf.pdb
+c:\users\leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\obj\Debug\DTamachi-wpf.csprojResolveAssemblyReference.cache
+c:\users\leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\obj\Debug\MainWindow.g.cs
+c:\users\leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\obj\Debug\App.g.cs
+c:\users\leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\obj\Debug\DTamachi-wpf_MarkupCompile.cache
+c:\users\leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\obj\Debug\DTamachi-wpf_MarkupCompile.lref
+c:\users\leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\obj\Debug\MainWindow.baml
+c:\users\leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\obj\Debug\DTamachi-wpf.g.resources
+c:\users\leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\obj\Debug\DTamachi_wpf.Properties.Resources.resources
+c:\users\leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\obj\Debug\DTamachi-wpf.csproj.GenerateResource.Cache
+c:\users\leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\obj\Debug\DTamachi-wpf.exe
+c:\users\leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\obj\Debug\DTamachi-wpf.pdb
+C:\Users\Leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\bin\Debug\WpfAnimatedGif.xml

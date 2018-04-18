@@ -1,0 +1,14 @@
+C:\Users\Leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\obj\Release\DTamachi-wpf.csprojResolveAssemblyReference.cache
+C:\Users\Leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\obj\Release\MainWindow.g.cs
+C:\Users\Leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\obj\Release\App.g.cs
+C:\Users\Leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\obj\Release\MainWindow.baml
+C:\Users\Leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\obj\Release\DTamachi_wpf.Properties.Resources.resources
+C:\Users\Leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\obj\Release\DTamachi-wpf.csproj.GenerateResource.Cache
+C:\Users\Leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\bin\Release\Survival of Cactus.exe.config
+C:\Users\Leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\bin\Release\Survival of Cactus.exe
+C:\Users\Leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\bin\Release\Survival of Cactus.pdb
+C:\Users\Leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\obj\Release\Survival of Cactus_MarkupCompile.cache
+C:\Users\Leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\obj\Release\Survival of Cactus_MarkupCompile.lref
+C:\Users\Leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\obj\Release\Survival of Cactus.g.resources
+C:\Users\Leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\obj\Release\Survival of Cactus.exe
+C:\Users\Leonad\documents\visual studio 2015\Projects\DTamachi-wpf\DTamachi-wpf\obj\Release\Survival of Cactus.pdb

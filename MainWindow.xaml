@@ -1,0 +1,17 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DTamachi_wpf"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        xmlns:CoreCostily="clr-namespace:DTamachi_wpf.Programming.CoreCostily" x:Class="DTamachi_wpf.MainWindow"
+        mc:Ignorable="d"
+        x:Name="wind"
+        Title="MainWindow" Height="368.792" Width="703.523" Background="Transparent" Topmost="True" AllowsTransparency="True" WindowStyle="None" MouseMove="Window_MouseMove" ResizeMode="NoResize">
+
+    <Grid x:Name="mainGrid">
+        <Label x:Name="label1" Content="Label" HorizontalAlignment="Left" Margin="60,127,0,0" VerticalAlignment="Top" Background="#FF813D16" Foreground="White" 
+               Visibility="Hidden"/>
+    </Grid>
+</Window>
